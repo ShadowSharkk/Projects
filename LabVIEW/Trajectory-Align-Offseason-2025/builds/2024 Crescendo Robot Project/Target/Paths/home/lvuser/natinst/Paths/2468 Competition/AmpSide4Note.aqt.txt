@@ -1,0 +1,5 @@
+AmpSideFirstShot.bdx
+AmpDriveTo2ndNote.bdx
+AmpShoot2ndNote.bdx
+AmpDriveTo3rdNote.bdx
+AmpShoot3rdNote.bdx
