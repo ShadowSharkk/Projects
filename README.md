@@ -6,6 +6,6 @@ A collection of engineering projects I've built, spanning robotics software (Lab
 
 Robot code, custom dashboards, and supporting tools developed for FIRST Robotics compititions
 
-## KiCad — NASA Acadamy Internship
+##### KiCad — NASA Acadamy Internship
 
 Costom schematics made during my time at NASA alongside work on the SEV
